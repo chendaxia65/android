@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\studio_workspace\\CircleProgressBar\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "outputFile": "D:\\studio_workspace\\circleprogressbar-master\\CircleProgressBar\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "D:\\studio_workspace\\CircleProgressBar\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "file": "D:\\studio_workspace\\circleprogressbar-master\\CircleProgressBar\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

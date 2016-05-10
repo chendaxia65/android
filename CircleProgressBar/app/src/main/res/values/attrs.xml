@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ProgressView">
+
+        <attr name="need_ouerCircle" format="boolean" ></attr>
+        <attr name="outerCircle_color" format="color" ></attr>
+        <attr name="innerCircle_color" format="color" ></attr>
+        <attr name="diameter" format="integer" ></attr>
+        <attr name="outerCircle_width" format="integer" ></attr>
+
+    </declare-styleable>
+
+</resources>

@@ -4,29 +4,46 @@
     api-level="21"
     density="xhdpi"
     format="7"
-    timestamp="29660093108367" >
+    timestamp="19104639980339" >
 
     <task
         name="javac"
-        duration="395" />
+        duration="476" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="110" />
+        duration="133" />
     <task
         name="verifier"
-        duration="35" />
+        duration="16" />
 
     <artifact
-        location="D:\studio_workspace\CircleProgressBar\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="D:\studio_workspace\circleprogressbar-master\CircleProgressBar\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="D:\studio_workspace\circleprogressbar-master\CircleProgressBar\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\studio_workspace\circleprogressbar-master\CircleProgressBar\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+        type="DEX" />
 
-    <build timestamp="29660093108367" >
+    <build timestamp="18508019442691" >
         <artifact
-            location="D:\studio_workspace\CircleProgressBar\app\build\outputs\apk\app-debug.apk"
+            location="D:\studio_workspace\circleprogressbar-master\CircleProgressBar\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="19104639980339" >
+        <artifact
+            location="D:\studio_workspace\circleprogressbar-master\CircleProgressBar\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="D:\studio_workspace\circleprogressbar-master\CircleProgressBar\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\studio_workspace\circleprogressbar-master\CircleProgressBar\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>

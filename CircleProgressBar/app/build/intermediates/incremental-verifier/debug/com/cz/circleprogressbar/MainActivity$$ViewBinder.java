@@ -10,12 +10,12 @@ public class MainActivity$$ViewBinder<T extends com.cz.circleprogressbar.MainAct
     View view;
     view = finder.findRequiredView(source, 2131492944, "field 'mToolbar'");
     target.mToolbar = finder.castView(view, 2131492944, "field 'mToolbar'");
-    view = finder.findRequiredView(source, 2131492945, "field 'progressView'");
-    target.progressView = finder.castView(view, 2131492945, "field 'progressView'");
+    view = finder.findRequiredView(source, 2131492945, "field 'mProgressView'");
+    target.mProgressView = finder.castView(view, 2131492945, "field 'mProgressView'");
   }
 
   @Override public void unbind(T target) {
     target.mToolbar = null;
-    target.progressView = null;
+    target.mProgressView = null;
   }
 }

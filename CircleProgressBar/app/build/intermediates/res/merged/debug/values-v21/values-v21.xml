@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="AppTheme" parent="Base.AppTheme"/>
-    <style name="AppTheme.OverlapSystemBar" parent="Base.AppTheme">
+    <style name="AppTheme.OverlapSystemBar" parent="AppTheme">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
@@ -245,5 +244,4 @@
     </style>
     <style name="Platform.ThemeOverlay.AppCompat.Dark"/>
     <style name="Platform.ThemeOverlay.AppCompat.Light"/>
-    <style name="Toolbar" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
 </resources>
